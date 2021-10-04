@@ -3,7 +3,10 @@
   margin: 0;
 }
 
-
+body {
+  background: radial-gradient(ellipse at bottom, #1b2725 0%, #090a0a 100%);
+  background-repeat: none;
+}
 body {
   overflow-x: hidden;
   max-width: 100% !important;
